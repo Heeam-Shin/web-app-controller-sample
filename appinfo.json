@@ -1,0 +1,10 @@
+{
+  "id": "com.dual.webapp.sample",
+  "version": "1.0.0",
+  "vendor": "LG Electronics",
+  "type": "web",
+  "main": "index.html",
+  "title": "Secondary display sample",
+  "icon": "./images/NERGI.png",
+  "requiredPermissions": ["configurator.callbacks","applications","all","applications.launch","applications.internal"]
+}
