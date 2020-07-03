@@ -1,4 +1,4 @@
-# Sample Web App for Secondary Displays
+# Sample Web App for a Secondary Display
 
 This sample app launches/closes a built-in YouTube app on your webOS OSE target device. You can learn how to launch an app on a secondary display using LS2 API.
 
