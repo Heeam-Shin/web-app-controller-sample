@@ -6,7 +6,7 @@ This sample app launches/closes a built-in YouTube app on your webOS OSE target 
 
 ## Test Branch
 
-Contribution from external developers.
+Contribution from external developers. Another contribution from external developers.
 
 ## Prerequisites
 
