@@ -10,6 +10,7 @@ Contribution from external developers.
 
 ## Prerequisites
 
+- Some additional jobs from private repository.
 - webOS OSE target device (RPi 4)
 - Two 1920 x 1080 resolution displays
 - Host machine with [webOS OSE CLI](https://www.webosose.org/docs/tools/sdk/cli/cli-user-guide/#installing-cli)
