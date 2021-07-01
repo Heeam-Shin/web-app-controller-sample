@@ -6,6 +6,8 @@ This sample app launches/closes a built-in YouTube app on your webOS OSE target 
 
 ## Test Branch
 
+Contribution from external developers.
+
 ## Prerequisites
 
 - webOS OSE target device (RPi 4)
